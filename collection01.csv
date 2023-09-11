@@ -1,0 +1,452 @@
+Most common 199 adjectives,,,
+collection,id,spanish,english
+6,1,nuevo,new
+6,2,grande,big
+6,3,bueno,good
+6,4,último,last
+6,5,mayor,greater
+6,6,nacional,national
+6,7,social,social
+6,8,mejor,better
+6,9,propio,own
+6,10,importante,important
+6,11,público,public
+6,12,alto,high
+6,13,político,political
+6,14,pequeño,small
+6,15,único,unique
+6,16,largo,long
+6,17,humano,human
+6,18,económico,economic
+6,19,posible,possible
+6,20,general,general
+6,21,internacional,international
+6,22,diferente,different
+6,23,solo,only
+6,24,español,Spanish
+6,25,principal,main
+6,26,necesario,required
+6,27,próximo,next
+6,28,distinto,different
+6,29,claro,light
+6,30,siguiente,following
+6,31,malo,bad
+6,32,anterior,previous
+6,33,especial,special
+6,34,natural,natural
+6,35,cultural,cultural
+6,36,bajo,low
+6,37,actual,current
+6,38,blanco,white
+6,39,fuerte,strong
+6,40,difícil,difficult
+6,41,mundial,world-wide
+6,42,menor,lesser
+6,43,viejo,old
+6,44,real,real
+6,45,local,local
+6,46,negro,black
+6,47,europeo,European
+6,48,diverso,various
+6,49,libre,free
+6,50,seguro,safe
+6,51,común,common
+6,52,privado,private
+6,53,central,central
+6,54,popular,popular
+6,55,dicho,such
+6,56,físico,physical
+6,57,superior,top
+6,58,joven,young
+6,59,personal,personal
+6,60,capaz,capable
+6,61,antiguo,old
+6,62,histórico,historical
+6,63,cierto,certain
+6,64,técnico,technical
+6,65,presente,present
+6,66,oficial,official
+6,67,mexicano,Mexican
+6,68,fácil,easy
+6,69,militar,military
+6,70,contrario,contrary
+6,71,civil,civil
+6,72,verdadero,true
+6,73,lleno,full
+6,74,suficiente,enough
+6,75,rápido,fast
+6,76,científico,scientific
+6,77,directo,direct
+6,78,completo,complete
+6,79,interno,internal
+6,80,fundamental,fundamental
+6,81,comercial,commercial
+6,82,familiar,familiar
+6,83,amplio,extensive
+6,84,educativo,educational
+6,85,vivo,"live, alive"
+6,86,similar,similar
+6,87,rojo,red
+6,88,financiero,financial
+6,89,medio,medium
+6,90,enorme,huge
+6,91,total,total
+6,92,profesional,professional
+6,93,adecuado,suitable
+6,94,médico,doctor
+6,95,grave,serious
+6,96,tradicional,traditional
+6,97,electoral,electoral
+6,98,básico,basic
+6,99,igual,same
+6,100,duro,hard
+6,101,profundo,deep
+6,102,final,last
+6,103,municipal,municipal
+6,104,inmediato,immediate
+6,105,junto,together
+6,106,argentino,Argentinean
+6,107,peor,worse
+6,108,francés,French
+6,109,corto,short
+6,110,oscuro,dark
+6,111,estadounidense,American
+6,112,cercano,near
+6,113,regional,regional
+6,114,feliz,happy
+6,115,positivo,positive
+6,116,máximo,maximum
+6,117,serio,serious
+6,118,laboral,labor
+6,119,imposible,impossible
+6,120,simple,simple
+6,121,pobre,poor
+6,122,reciente,recent
+6,123,extraño,strange
+6,124,ambiental,environmental
+6,125,específico,specific
+6,126,normal,normal
+6,127,determinado,determined
+6,128,moderno,modern
+6,129,urbano,urban
+6,130,mínimo,minimum
+6,131,musical,musical
+6,132,deportivo,sporty
+6,133,federal,federal
+6,134,frío,cold
+6,135,legal,legal
+6,136,verde,green
+6,137,interesante,interesting
+6,138,artístico,artistic
+6,139,judicial,judicial
+6,140,particular,particular
+6,141,colombiano,Colombian
+6,142,previo,previous
+6,143,cubano,Cuban
+6,144,pleno,full
+6,145,eléctrico,electric
+6,146,tecnológico,technology
+6,147,abierto,open
+6,148,global,global
+6,149,infantil,childish
+6,150,absoluto,absolute
+6,151,definitivo,definitive
+6,152,complejo,complex
+6,153,estatal,statewide
+6,154,rico,rich
+6,155,raro,rare
+6,156,significativo,significant
+6,157,sencillo,simple
+6,158,perfecto,perfect
+6,159,permanente,permanent
+6,160,religioso,religious
+6,161,activo,active
+6,162,famoso,famous
+6,163,numeroso,numerous
+6,164,rural,rural
+6,165,tranquilo,quiet
+6,166,extranjero,foreign
+6,167,democrático,democratic
+6,168,azul,blue
+6,169,femenino,female
+6,170,escaso,scarce
+6,171,intenso,intense
+6,172,puro,pure
+6,173,unido,joined
+6,174,universitario,academic
+6,175,original,original
+6,176,exterior,outside
+6,177,seco,dry
+6,178,digital,digital
+6,179,alemán,German
+6,180,literario,literary
+6,181,independiente,independent
+6,182,armado,armed
+6,183,sanitario,sanitary
+6,184,electrónico,electronic
+6,185,indígena,indigenous
+6,186,concreto,concrete
+6,187,fiscal,fiscal
+6,188,clásico,classic
+6,189,evidente,clear
+6,190,individual,individual
+6,191,colectivo,collective
+6,192,negativo,negative
+6,193,productivo,productive
+6,194,doble,double
+6,195,anual,annual
+6,196,efectivo,effective
+6,197,habitual,usual
+6,198,inicial,initial
+6,199,débil,weak
+7,1,no,not
+7,2,más,more
+7,3,apenas,hardly
+7,4,también,also
+7,5,ya,already
+7,6,muy,very
+7,7,básicamente,basically
+7,8,solo,only
+7,9,después,later
+7,10,ahora,now
+7,11,así,thus
+7,12,bien,well
+7,13,siempre,always
+7,14,antes,before
+7,15,tan,so
+7,16,cómo,how
+7,17,sí,yes
+7,18,hoy,today
+7,19,entonces,then
+7,20,luego,then
+7,21,además,in addition
+7,22,nunca,never
+7,23,casi,almost
+7,24,poco,sparsely
+7,25,aquí,here
+7,26,menos,least
+7,27,tanto,such
+7,28,sin embargo,however
+7,29,mucho,a lot
+7,30,aún,still
+7,31,dentro,within
+7,32,ayer,yesterday
+7,33,allí,there
+7,34,incluso,inclusive
+7,35,ahí,there
+7,36,ruidosamente,loudly
+7,37,todavía,still
+7,38,hasta,even
+7,39,tampoco,nor
+7,40,cerca,near
+7,41,allá,there
+7,42,apenas,barely
+7,43,a lo mejor,perhaps
+7,44,cuidadosamente,carefully
+7,45,pronto,soon
+7,46,normalmente,normally
+7,47,fuera,out
+7,48,atrás,behind
+7,49,encima,above
+7,50,tarde,afternoon
+7,51,finalmente,finally
+7,52,especialmente,especially
+7,53,tal vez,maybe
+7,54,lejos,far
+7,55,demasiado,too
+7,56,quizá,maybe
+7,57,mal,badly
+7,58,perfectamente,perfectly
+7,59,bastante,quite a lot
+7,60,diariamente,daily
+7,61,adelante,forward
+7,62,detrás,back
+7,63,igual,likewise
+7,64,ni siquiera,not even
+7,65,primero,first
+7,66,actualmente,currently
+7,67,así como,as well as
+7,68,precisamente,precisely
+7,69,arriba,up
+7,70,realmente,actually
+7,71,jamás,never
+7,72,quizás,maybe
+7,73,recién,just
+7,74,asimismo,also
+7,75,no obstante,however
+7,76,difícilmente,with difficulty
+7,77,alrededor,around
+7,78,solamente,only
+7,79,aun,even
+7,80,por supuesto,of course
+7,81,delante,in front
+7,82,abajo,below
+7,83,para nada,not at all
+7,84,fácilmente,easily
+7,85,simplemente,simply
+7,86,directamente,directly
+7,87,lentamente,slowly
+7,88,debajo,under
+7,89,por tanto,therefore
+7,90,principalmente,mainly
+7,91,por lo tanto,therefore
+7,92,totalmente,totally
+7,93,a menudo,often
+7,94,por lo menos,at least
+7,95,acá,here
+7,96,probablemente,probably
+7,97,prácticamente,practically
+7,98,seguramente,surely
+7,99,frecuentemente,frequently
+7,100,aproximadamente,approximately
+7,101,completamente,completely
+7,102,posteriormente,later
+7,103,nuevamente,again
+7,104,por fin,finally
+7,105,igualmente,equally
+7,106,jamás,never
+7,107,acaso,perhaps
+7,108,justo,just
+7,109,recientemente,recently
+7,110,por favor,kindly
+7,111,rápidamente,quickly
+7,112,únicamente,only
+7,113,afuera,outside
+7,114,respectivamente,respectively
+7,115,inmediatamente,immediately
+7,116,exactamente,exactly
+7,117,claramente,clearly
+7,118,generalmente,generally
+7,119,perfectamente,perfectly
+7,120,enseguida,right away
+7,121,temprano,early
+7,122,adentro,inside
+8,1,de,from
+8,2,en,at
+8,3,a,to
+8,4,con,with
+8,5,por,by
+8,6,para,for
+8,7,sobre,about
+8,8,entre,between
+8,9,sin,without
+8,10,desde,from
+8,11,hasta,to
+8,12,durante,during
+8,13,hacia,to
+8,14,ante,before
+8,15,contra,against
+8,16,según,according to
+8,17,tras,after
+8,18,bajo,under
+8,19,a través de,through
+8,20,a partir de,as of
+8,21,frente a,in front of
+8,22,además de,in addition to
+8,23,a pesar de,in spite of
+8,24,mediante,through
+8,25,junto a,together with
+8,26,debido a,due to
+8,27,gracias a,thanks to
+8,28,pese a,despite
+8,29,de acuerdo con,in accordance with
+8,30,en cuanto a,in regards to
+8,31,junto con,together with
+8,32,acerca de,about
+8,33,respecto a,with respect to
+8,34,en torno a ,around
+8,35,en lugar de,instead of
+8,36,de acuerdo a,according to
+36,1,poseer,to own
+36,2,contribuir,to contribute
+36,3,exponer,to exhibit
+36,4,instalar,to install
+36,5,notar,to note
+36,6,sonar,to sound
+36,7,convencer,to convince
+36,8,mandar,to send
+36,9,asociar,to link
+36,10,aportar,to provide
+36,11,acudir,to go to
+36,12,asistir,to attend
+36,13,firmar,to sign
+36,14,pertenecer,to belong to
+36,15,solicitar,to request
+36,16,enseñar,to show
+36,17,cortar,to cut
+36,18,recorrer,to tour
+36,19,fijar,to post
+36,20,promover,to promote
+36,21,describir,to describe
+36,22,revelar,to reveal
+36,23,retirar,to withdraw
+36,24,contemplar,to see
+36,25,elaborar,to elaborate
+36,26,ordenar,to order
+36,27,hallar,to find
+36,28,reflejar,to reflect
+36,29,limitar,to limit
+36,30,rodear,to go around
+36,31,transformar,to transform
+36,32,interpretar,to interpret
+36,33,llenar,to fill out
+36,34,consistir,to consist of
+36,35,cuidar,to care
+36,36,someter,to submit
+36,37,avisar,to warn
+36,38,emplear,to use
+35,1,confirmar,to confirm
+35,2,advertir,to warn
+35,3,imponer,to impose
+35,4,integrar,to integrate
+35,5,recoger,to pick up
+35,6,parar,to stop
+35,7,proteger,to protect
+35,8,depender,to depend
+35,9,negar,to deny
+35,10,resolver,to solve
+35,11,surgir,to arise
+35,12,corresponder,to correspond
+35,13,determinar,to determine
+35,14,concluir,to conclude
+35,15,visitar,to visit
+35,16,exigir,to demand
+35,17,contener,to contain
+35,18,aprobar,to approve
+35,19,romper,to break
+35,20,viajar,to travel
+35,21,quitar,to remove
+35,22,interesar,to interest
+35,23,defender,to defend
+35,24,avanzar,to advance
+35,25,prever,to foresee
+35,26,implicar,to involve
+35,27,apuntar,to point out
+35,28,invitar,to invite
+35,29,causar,to cause
+35,30,vestir,to dress
+35,31,controlar,to check
+35,32,adquirir,to purchase
+35,33,incorporar,to incorporate
+35,34,guardar,to save
+35,35,insistir,to insist
+35,36,conducir,to drive
+35,37,acordar,to agree
+35,38,contestar,to answer
+35,39,tirar,to throw away
+35,40,despertar,to wake up
+35,41,reír,to laugh
+35,42,sorprender,to surprise
+35,43,llorar,to cry
+35,44,situar,to locate
+35,45,garantizar,to guarantee
+35,46,separar,to separate
+35,47,impedir,to prevent
+35,48,gritar,to shout
+35,49,costar,to cost
+35,50,cruzar,to cross
+35,51,disfrutar,to enjoy
+35,52,cantar,to sing
+35,53,citar,to quote
+35,54,sonreír,to smile
+35,55,extender,to extend
